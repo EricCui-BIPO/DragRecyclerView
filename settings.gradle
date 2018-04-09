@@ -1,0 +1,2 @@
+include ':app', ':lib-advrecyclerview'
+project(':lib-advrecyclerview').projectDir = new File('lib-advrecyclerview')

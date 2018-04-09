@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SuperBoy</string>
+    <string name="favorite">最爱</string>
+    <string name="cold_weapon">冷兵器</string>
+    <string name="modern_weapon">现代武器</string>
+    <string name="misc">道具</string>
+    <string name="equipment">装备</string>
+    <string name="person">动作</string>
+
+    <string name="finger_print_default">请将手指放在指纹识别器上面进行指纹识别。</string>
+    <string name="finger_print_success">指纹校验成功。</string>
+    <string name="finger_print_failed">指纹校验失败。</string>
+</resources>
